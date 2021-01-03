@@ -1,10 +1,13 @@
+// first line added here
+//2nd line here
+//3rd line
 ﻿using System;
 using System.Text;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Test.Project.Library;
-
+// added here
 
 namespace Test.Project.Tests
 {
