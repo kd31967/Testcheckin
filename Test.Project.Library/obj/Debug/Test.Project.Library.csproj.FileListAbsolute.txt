@@ -1,5 +1,0 @@
-H:\DOTNET\tests-examples-master\tests-examples-master\tests-csharp-example\Test.Project.Library\bin\Debug\Test.Project.Library.dll
-H:\DOTNET\tests-examples-master\tests-examples-master\tests-csharp-example\Test.Project.Library\bin\Debug\Test.Project.Library.pdb
-H:\DOTNET\tests-examples-master\tests-examples-master\tests-csharp-example\Test.Project.Library\obj\Debug\Test.Project.Library.csproj.CoreCompileInputs.cache
-H:\DOTNET\tests-examples-master\tests-examples-master\tests-csharp-example\Test.Project.Library\obj\Debug\Test.Project.Library.dll
-H:\DOTNET\tests-examples-master\tests-examples-master\tests-csharp-example\Test.Project.Library\obj\Debug\Test.Project.Library.pdb
